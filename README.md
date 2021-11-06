@@ -13,4 +13,4 @@ Our code uses :
   
 ## Usage(demo)
 
-[demo](./public/ecommerce)
+[link](https://drive.google.com/file/d/1I1h878_6iwnN9aCosyB0rWsQX2O8M03O/preview)
